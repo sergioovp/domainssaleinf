@@ -1,4 +1,3 @@
-A Simple yet Modern Domain for Sale HTML Template (Single File)
 
 <img width="1111" alt="domain-for-sale" src="https://cdn.jsdelivr.net/gh/dr5hn/domain-for-sale/.github/banner.png">
 
